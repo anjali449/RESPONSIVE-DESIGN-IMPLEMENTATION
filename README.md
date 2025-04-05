@@ -22,3 +22,7 @@ Media Queries: Apply different styles based on screen width (like changing font 
 Flexible Images: Images scale within their containers to avoid breaking the layout.
 
 Mobile-First Approach: Design for small screens first, then enhance for larger ones.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/43700148-cabd-41ee-a56c-8e3609af5718)
